@@ -1,59 +1,44 @@
-# SHESH‑MESH
+<!-- Profile Header: drop these badges at the top of your README -->
 
-<!-- Chips row -->
-<img alt="Multivendor" src="https://img.shields.io/badge/Multivendor-Inclusive-blue?style=for-the-badge" /> <img alt="FashionTech" src="https://img.shields.io/badge/FashionTech-Forward-pink?style=for-the-badge" /> <img alt="Mobile‑First" src="https://img.shields.io/badge/Mobile‑First-Responsive-orange?style=for-the-badge" /> <img alt="Accessible" src="https://img.shields.io/badge/Accessible-EN%2FES-violet?style=for-the-badge" /> <img alt="Fast" src="https://img.shields.io/badge/Fast-Quick‑Loads-yellow?style=for-the-badge" /> <img alt="Secure" src="https://img.shields.io/badge/Secure-Private‑Payments-lightgrey?style=for-the-badge" /> <img alt="Discover" src="https://img.shields.io/badge/Discover-Curated-brightgreen?style=for-the-badge" /> <img alt="Local & Global" src="https://img.shields.io/badge/Local%2FGlobal-Versatile-teal?style=for-the-badge" />
 
-A friendly, stylish marketplace made for shoppers, creators, and sellers—focused on delightful discovery, easy buying, and dependable delivery. Clean visuals, smooth checkout, and inclusive design.
+<h1 align="center">Shesh-Mesh</h1>
+<p align="center"><i>Uniting Fashion. Defining Wardrobes.</i></p>
 
-## Snapshot
-SHESH‑MESH is a marketplace where local brands and creators meet customers who love unique fashion and lifestyle finds. It’s built to look great on phones and desktops, help sellers show off their best, and make shopping simple and fast.
+<p align="center">
+    <img alt="Status: Active" src="https://img.shields.io/badge/Status-Active-green" />
+    <img alt="Focus: Fashion" src="https://img.shields.io/badge/Focus-Fashion-red" />
+    <img alt="Regions: SG-MY-BD" src="https://img.shields.io/badge/Regions-Singapore%20%7C%20Malaysia%20%7C%20Bangladesh-purple" />
+    <img alt="Marketplace" src="https://img.shields.io/badge/Type-Marketplace-blue" />
+    <img alt="Quality Control" src="https://img.shields.io/badge/Priority-Quality_Control-white" />
+</p>
 
-## What We Are
-- A marketplace that highlights independent brands and curated collections
-- A welcoming storefront with clear images, reviews, and helpful filters
-- A place for sellers to list, sell, and grow—without the fuss
-- Bilingual (EN/ES) and designed to be easy for everyone
+---
 
-## What We Offer
-- Clear browsing: beautiful product photos, intuitive categories, and search that actually helps
-- Smooth buying: simple cart and checkout that gets people in and out without headaches
-- Seller tools: easy onboarding, product management, and order tracking made straightforward
-- Secure and responsible transactions so buyers and sellers feel confident
+## 🖤 Mission
+Bringing people, brands, and style together through a unified, curated fashion ecosystem that focuses on quality, reliability, and regional growth.
 
-## How It Feels
-- Fast and polished: quick page loads and minimal steps to buy
-- Friendly and accessible: readable text, good contrast, and keyboard support for those who need it
-- Local flavor, global reach: hometown brands can reach broader shoppers while keeping their identity
-- Helpful support: clear return policies, order updates, and seller ratings for trust
+---
 
-## For Shoppers
-- Find unique pieces and small-batch collections
-- Personalized suggestions based on what you like
-- Simple returns and order tracking
-- A bilingual experience so everyone can shop comfortably
+## 🌍 Vision
+Shesh-Mesh grows from Bangladesh with a regional presence across Singapore, Malaysia, and Bangladesh—aiming to be the one-stop wardrobe destination for curated brands and shoppers.
 
-## For Sellers
-- Easy listing and photos-first product cards
-- Straightforward order management and payouts
-- Tips and tools to present your brand beautifully
-- Reach customers without worrying about tech complexity
+We focus on:
+- 🎯 Curated product selection with seasonal relevance
+- 🔍 Rigorous quality checks and product verification
+- 🤝 Trusted partnerships with vetted brands
+- ⚡ Reliable logistics and cross-border deliveries
+- ⭐ Customer-first support and user experience
+- 🌐 Brand growth through regional market exposure
 
-## Gallery
-<picture>
-    <source media="(min-width: 800px)" srcset="https://img.shields.io/badge/Hero-Showcase-pink?style=for-the-badge&logo=appveyor" />
-    <img alt="Hero preview with curated collections" src="https://img.shields.io/badge/Collections-Style-blue?style=for-the-badge" />
-</picture>
+---
 
-- Image 1: Curated homepage that highlights new brands and seasonal picks  
-- Image 2: Product card with real photos and a clear price + size selector  
-- Image 3: Friendly checkout flow with easy address entry and delivery options
+## ✨ What We Offer
+- Curated fashion drops from trusted regional and international brands
+- Quality assurance and standardised product checks
+- Brand elevation support: listing, marketing guidance, and logistics prep
+- Regional coverage with scalable fulfilment solutions
 
-## Try It
-Want to see it in action? Click the demo to browse the latest collections, or sign up to list a few items and start selling.
+---
 
-## Help Us Grow
-We’re all ears—suggest new features, report issues, or help curate local brands. Community contributions help keep things fresh and friendly.
 
-## Vision
-Make shopping about discovery, connection, and delight—so small brands can thrive and shoppers can find pieces they truly love.
 
